@@ -1,0 +1,3 @@
+cd C:\Users\Laucha\Desktop\mano robotica lauti\HandTrackingRobot
+.venv\Scripts\actívate
+py main.py
